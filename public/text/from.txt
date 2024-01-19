@@ -1,0 +1,2 @@
+crossin编程教室python课程之pygame习题。
+Hello，Mr.张，welcome to 南京。你的house在一个lake边上，你可以drive car去那里。祝你玩得happy。
